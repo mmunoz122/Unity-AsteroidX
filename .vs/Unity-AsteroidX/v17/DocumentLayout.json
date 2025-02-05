@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\milto\\Documents\\GitHub\\Unity-AsteroidX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87059A2D-CBE8-490B-4747-6010085383E2}|Assembly-CSharp.csproj|c:\\users\\milto\\documents\\github\\unity-asteroidx\\assets\\__scripts\\shootingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87059A2D-CBE8-490B-4747-6010085383E2}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\shootingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87059A2D-CBE8-490B-4747-6010085383E2}|Assembly-CSharp.csproj|c:\\users\\milto\\documents\\github\\unity-asteroidx\\assets\\__scripts\\bulletanchor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87059A2D-CBE8-490B-4747-6010085383E2}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\bulletanchor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87059A2D-CBE8-490B-4747-6010085383E2}|Assembly-CSharp.csproj|c:\\users\\milto\\documents\\github\\unity-asteroidx\\assets\\__scripts\\cannoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87059A2D-CBE8-490B-4747-6010085383E2}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\cannoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87059A2D-CBE8-490B-4747-6010085383E2}|Assembly-CSharp.csproj|c:\\users\\milto\\documents\\github\\unity-asteroidx\\assets\\__scripts\\screenwrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87059A2D-CBE8-490B-4747-6010085383E2}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\screenwrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87059A2D-CBE8-490B-4747-6010085383E2}|Assembly-CSharp.csproj|c:\\users\\milto\\documents\\github\\unity-asteroidx\\assets\\__scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87059A2D-CBE8-490B-4747-6010085383E2}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87059A2D-CBE8-490B-4747-6010085383E2}|Assembly-CSharp.csproj|c:\\users\\milto\\documents\\github\\unity-asteroidx\\assets\\__scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87059A2D-CBE8-490B-4747-6010085383E2}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShootingController.cs",
+              "DocumentMoniker": "C:\\Users\\milto\\Documents\\GitHub\\Unity-AsteroidX\\Assets\\__Scripts\\ShootingController.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\ShootingController.cs",
+              "ToolTip": "C:\\Users\\milto\\Documents\\GitHub\\Unity-AsteroidX\\Assets\\__Scripts\\ShootingController.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\ShootingController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:09:13.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScreenWrap.cs",
+              "DocumentMoniker": "C:\\Users\\milto\\Documents\\GitHub\\Unity-AsteroidX\\Assets\\__Scripts\\ScreenWrap.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\ScreenWrap.cs",
+              "ToolTip": "C:\\Users\\milto\\Documents\\GitHub\\Unity-AsteroidX\\Assets\\__Scripts\\ScreenWrap.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\ScreenWrap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:09:01.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\milto\\Documents\\GitHub\\Unity-AsteroidX\\Assets\\__Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\milto\\Documents\\GitHub\\Unity-AsteroidX\\Assets\\__Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:08:58.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CannonController.cs",
+              "DocumentMoniker": "C:\\Users\\milto\\Documents\\GitHub\\Unity-AsteroidX\\Assets\\__Scripts\\CannonController.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\CannonController.cs",
+              "ToolTip": "C:\\Users\\milto\\Documents\\GitHub\\Unity-AsteroidX\\Assets\\__Scripts\\CannonController.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\CannonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:08:54.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bulletAnchor.cs",
+              "DocumentMoniker": "C:\\Users\\milto\\Documents\\GitHub\\Unity-AsteroidX\\Assets\\__Scripts\\bulletAnchor.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\bulletAnchor.cs",
+              "ToolTip": "C:\\Users\\milto\\Documents\\GitHub\\Unity-AsteroidX\\Assets\\__Scripts\\bulletAnchor.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\bulletAnchor.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:08:40.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\milto\\Documents\\GitHub\\Unity-AsteroidX\\Assets\\__Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\Bullet.cs",
+              "ToolTip": "C:\\Users\\milto\\Documents\\GitHub\\Unity-AsteroidX\\Assets\\__Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:08:29.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
